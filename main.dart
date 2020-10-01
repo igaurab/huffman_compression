@@ -58,5 +58,5 @@ int main(List<String> args) {
     print("[Error] Incorrect Input Format");
   }
 
-  return 1;
+  return 0;
 }
