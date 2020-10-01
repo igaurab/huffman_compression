@@ -12,6 +12,10 @@ Run `pub get` to get the dependencies(arg parser)
 
 `dart main.dart -m 'He said: "Hello World!"'`
 
+or if you trust, download the binary file `bin/huff` and run
+
+`./huff -m "Hello World!`
+
 
 **Hacking**
 
