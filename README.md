@@ -6,7 +6,7 @@ This is an implementation of Huffman Compression Algorithm.
 
 You will need to install [dart](https://dart.dev/) to run the program. 
 
-Run `pub get` 
+Run `pub get` to get the dependencies(arg parser)
 
 `dart main.dart -m "Hello World!"`
 
@@ -15,7 +15,8 @@ Run `pub get`
 
 **Hacking**
 
-The `src/utils.dart` contains function 
+The `src/utils.dart` contains function
+
 `printLevelOrderTraversal` for Level Order Traversal of Huffman Tree and 
 
 `printLeafNode` to print the leaf nodes of the Huffman Tree from left to right
